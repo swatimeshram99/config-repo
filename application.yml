@@ -1,4 +1,4 @@
-yml
+
 logging:
   level:
     root: INFO
