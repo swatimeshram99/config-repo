@@ -1,5 +1,6 @@
-yaml
+```yaml
 logging:
   level:
     root: INFO
+```
 
