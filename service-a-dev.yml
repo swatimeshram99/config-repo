@@ -1,6 +1,5 @@
-```yaml
-server:
-  port: 8081
-database:
-  url: jdbc:mysql://localhost:3306/service_a_dev
-```
+spring.application.name=EurekaService
+server.port=8761
+eureka.instance.hostname=localhost
+eureka.client.register-with-eureka=false
+eureka.client.fetch-registry=false
